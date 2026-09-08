@@ -41,7 +41,7 @@ A beginner-friendly series about finance, investing, financial markets, trading,
 
 #### Risk Management
 
-* [Zerodha Varsity - Risk Management Part 1](https://zerodha.com/varsity/chapter/risk-management-part-1/)
+* [Zerodha Varsity - Risk Management Part 1](https://zerodha.com/varsity/chapter/risk-part-1/)
 
 #### TradingView
 
