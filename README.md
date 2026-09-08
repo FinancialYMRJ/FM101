@@ -70,4 +70,4 @@ Coming soon.
 
 FM101 is for educational purposes only and is not financial advice.
 
-Always do your own research and understand the risks before making financial decisions.
+If you're take my words at facevalue without context, do not go to cry baby sebi for your blunders
