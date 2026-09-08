@@ -27,7 +27,7 @@ A beginner-friendly series about finance, investing, financial markets, trading,
 #### Investing & Markets
 
 * [Investopedia - Investing Basics](https://www.investopedia.com/articles/basics/04/022004.asp)
-* [Zerodha Varsity - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
+* [Zerodha Varsity - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets)
 
 #### Capital & Asset Classes
 
