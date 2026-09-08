@@ -45,7 +45,7 @@ A beginner-friendly series about finance, investing, financial markets, trading,
 
 #### TradingView
 
-* [TradingView - Getting Started](https://www.tradingview.com/support/solutions/43000539343-how-to-start-using-tradingview/)
+* [TradingView - Getting Started]([https://www.tradingview.com/support/solutions/43000539343-how-to-start-using-tradi](https://optimusfutures.com/blog/tradingview-guide/)
 
 #### Psychology
 
