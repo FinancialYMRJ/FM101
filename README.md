@@ -50,7 +50,7 @@ A beginner-friendly series about finance, investing, financial markets, trading,
 #### Psychology
 
 * [Investopedia - Confirmation Bias](https://www.investopedia.com/terms/c/confirmation-bias.asp)
-* [Growth.Design](https://growth.design/)
+* [Growth.Design](https://growth.design/psychology)
 
 ---
 
